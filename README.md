@@ -6,7 +6,7 @@ A simple Python Tkinter-based GUI tool to assist players in keeping track of sco
 
 ## 🕹️ Game Overview
 
-**Flip 7** is a multiplayer card game where players try to accumulate 200 points by drawing cards ranging from 0–12. Each round, players take turns to draw or stay. Drawing duplicates in a round causes a bust — unless protected by a **Second Chance** card. Bonus point cards and special ability cards can influence the round.
+**Flip 7** is a multiplayer card game where players try to accumulate 200 points by drawing cards ranging from 0–12. Each round, players take turns to draw or stay. Drawing duplicates in a round causes a bust, unless protected by a **Second Chance** card. Bonus point cards and special ability cards can influence the round.
 
 This app manages:
 - Player setup and turn order
